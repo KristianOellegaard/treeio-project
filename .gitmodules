@@ -1,0 +1,3 @@
+[submodule "treeio"]
+	path = treeio
+	url = git://github.com/KristianOellegaard/treeio.git
